@@ -1,3 +1,8 @@
+/* Name: 1.c
+ * Purpose: Input the date in month,day,year and have it output in year month day
+ * Author: Ty Overby
+ */
+
 #include <stdio.h>
 
 int main(void){
