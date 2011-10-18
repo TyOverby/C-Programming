@@ -1,3 +1,8 @@
+/* Name: 4.c
+ * Purpose: Computes money after interest
+ * Author: Ty Overby
+ */
+
 #include <stdio.h>
 
 int main(void){
