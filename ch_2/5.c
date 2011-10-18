@@ -1,3 +1,8 @@
+/* Name: 5.c
+ * Purpose: Computes polynomials
+ * Author: Ty Overby
+ */
+
 #include <stdio.h>
 float getPoly(float x);
 float exponent(float x, int exp);
