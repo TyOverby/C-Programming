@@ -1,3 +1,8 @@
+/* Name: 7.c
+ * Purpose: I have no clue what I'm doing here
+ * Author: Ty Overby
+ */
+
 #include <stdio.h>
 
 int main(void){
@@ -5,6 +10,8 @@ int main(void){
 
 	int dollars;
 	scanf("%d",&dollars);
+	
+	printf("%.2d\n",dollars);
 
 
 	return 0;
