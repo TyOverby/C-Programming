@@ -1,3 +1,8 @@
+/* Name: 1.c
+ * Purpose: To print a checkmark.  Uses char arrays for strings.
+ * Author: Ty Overby
+ */
+
 #include <stdio.h>
 
 int main(void){	
